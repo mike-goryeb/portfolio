@@ -1,3 +1,4 @@
+// Testing git branch
 var button = document.getElementById('my-button');
 
 function myFunction() {
